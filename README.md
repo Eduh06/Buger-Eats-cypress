@@ -3,8 +3,7 @@
 
 Projeto desenvolvido no curso de Cypress da QaAcademy, ministrado pelo Instrutor Fernando Papito. Nele foi desenvolvido o teste de aceitação do Site Buger-Eats
 
-![image](https://github.com/Eduh06/Eduardo-Dos-Santos/blob/main/Buger-EatsIMG.png)
-
+![image](https://github.com/Eduh06/Eduh06.github.io/blob/master/Buger-EatsIMG%20(1).png)
 
 # Autor
 
